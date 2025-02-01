@@ -2,10 +2,43 @@
 title: "iskr2025"
 ---
 
-This is a Quarto website.
+# Conference
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {.panel-tabset}
+## En  {.unnumbered}
 
-```{r}
-1 + 1
-```
+International Society for Kaigo Research
+
+## 日   {.unnumbered}
+
+国際介護研究会
+
+:::
+
+# Submit an Abstract
+
+::: {.panel-tabset}
+## En  {.unnumbered}
+
+Submit an Abstract by 28 February 2025.
+
+## 日   {.unnumbered}
+
+抄録を2025年2月28日までに送信してください。
+
+:::
+
+# Programme
+
+::: {.panel-tabset}
+## En  {.unnumbered}
+
+29 April 2025
+
+## 日   {.unnumbered}
+
+2025年4月25日
+
+:::
+
+
