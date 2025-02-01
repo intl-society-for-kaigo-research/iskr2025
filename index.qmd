@@ -20,11 +20,33 @@ International Society for Kaigo Research
 ::: {.panel-tabset}
 ## En  {.unnumbered}
 
-Submit an Abstract by 28 February 2025.
+The Conference Programme Committee welcomes papers from a wide variety of interdisciplinary and theoretical perspectives, and submissions are organised into the streams and sub-streams listed below:
+
+- Kaigo
+- Rehabilitation
+- Nursing
+- Nutrituion
+- Human Science
+- User-Led Clinical Research
+
+Submit an Abstract (English or Japanese) by 28 February 2025.
+
+Your submission will undergo peer review.
 
 ## 日   {.unnumbered}
 
-抄録を2025年2月28日までに送信してください。
+大会プログラム委員会は、幅広い学際的・理論的視点からの論文を歓迎します。投稿は以下のストリームおよびサブストリームに分類されます。
+
+- 介護学
+- リハビリテーション学
+- 看護学
+- 栄養学
+- 人間科学
+- 当事者臨地研究
+
+抄録 (英語または日本語) を2025年2月28日までに送信してください。
+
+抄録は、査読されます。
 
 :::
 
@@ -35,10 +57,45 @@ Submit an Abstract by 28 February 2025.
 
 29 April 2025
 
+Zoom
+
 ## 日   {.unnumbered}
 
 2025年4月25日
 
+Zoom
+
 :::
 
+# Presentation
+
+::: {.panel-tabset}
+## En  {.unnumbered}
+
+Oral presentation: 10 minuts
+
+Discussion: 20 minutes
+
+## 日   {.unnumbered}
+
+2025年4月25日
+
+口頭発表: 10 分
+
+質疑応答: 20 分
+
+:::
+
+# AI Usage
+
+::: {.panel-tabset}
+## En  {.unnumbered}
+
+We do not permit the use of generative AI or AI-assisted tools to create or alter  manuscripts. 
+
+## 日   {.unnumbered}
+
+AI または AI を利用したツールを使用した原稿作成を認めません。
+
+:::
 
