@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+# Committee
 
-```{r}
-1 + 1
-```
+- Yoshihiko Baba PhD

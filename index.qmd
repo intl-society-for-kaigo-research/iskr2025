@@ -93,9 +93,30 @@ Discussion: 20 minutes
 
 We do not permit the use of generative AI or AI-assisted tools to create or alter  manuscripts. 
 
+Simple translation by DeepL or Google Translate is acceptable.
+
 ## 日   {.unnumbered}
 
 AI または AI を利用したツールを使用した原稿作成を認めません。
 
+DeepL または Google Translate による翻訳は認めます。
+
 :::
+
+# Assistance
+
+::: {.panel-tabset}
+## En  {.unnumbered}
+
+Every Saturday 6:30-9:00 (JST), statistics, graph making and writing are supported online.
+
+https://saturdaymorning.connpass.com/
+
+## 日   {.unnumbered}
+
+毎週土曜日 6:30-9:00、オンラインで統計、作図、原稿作成の支援をいたします。
+
+https://saturdaymorning.connpass.com/
+:::
+
 
