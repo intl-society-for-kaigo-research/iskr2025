@@ -13,7 +13,7 @@ International Society for Kaigo Research
 
 国際介護研究会
 
-## DEutsche
+## De
 
 International Society for Kaigo Research
 
@@ -33,6 +33,15 @@ Begin
 ## 日   {.unnumbered}
 
 始めよう
+
+## De  {.unnumbered}
+
+Fangen Wir An!
+
+## 中文
+
+来来来!
+
 :::
 
 
