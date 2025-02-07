@@ -1,13 +1,12 @@
 project:
-  type: website
+  type: book
 
-website:
+book:
   title: "iskr2025"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
+  chapters:
+      - index.qmd
       - about.qmd
+      - abstract.qmd
 
 format:
   html:
@@ -18,13 +17,13 @@ format:
     pdf-engine: xelatex
     documentclass: bxjsbook
     classoption: oneside,xelatex,ja=standard
-    output-file: "How"
+    output-file: "iskr2025"
     output-ext:  "pdf"
     in_header:  tex_preamble.tex
     after_body: tex_after.tex
   epub:
     cover-image: cover.png
-    output-file: "How"
+    output-file: "iskr2025"
     output-ext:  "epub"
 
 
