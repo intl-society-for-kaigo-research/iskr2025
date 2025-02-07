@@ -14,6 +14,18 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+  pdf:
+    pdf-engine: xelatex
+    documentclass: bxjsbook
+    classoption: oneside,xelatex,ja=standard
+    output-file: "How"
+    output-ext:  "pdf"
+    in_header:  tex_preamble.tex
+    after_body: tex_after.tex
+  epub:
+    cover-image: cover.png
+    output-file: "How"
+    output-ext:  "epub"
 
 
 
