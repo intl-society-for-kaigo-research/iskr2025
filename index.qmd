@@ -12,8 +12,20 @@ International Society for Kaigo Research
 ## 日   {.unnumbered}
 
 国際介護研究会
-
 :::
+
+# Conference Theme
+
+::: {.panel-tabset}
+## En  {.unnumbered}
+
+Begin
+
+## 日   {.unnumbered}
+
+始めよう
+:::
+
 
 # Submit an Abstract
 
@@ -57,14 +69,13 @@ Your submission will undergo peer review.
 
 29 April 2025
 
-Zoom
+Zoom (No camera required)
 
 ## 日   {.unnumbered}
 
 2025年4月25日
 
-Zoom
-
+Zoom (カメラは不要です)
 :::
 
 # Presentation
