@@ -5,19 +5,19 @@ title: "iskr2025"
 # Conference
 
 ::: {.panel-tabset}
-## En  {.unnumbered}
+## En {.unnumbered}
 
 International Society for Kaigo Research
 
-## 日   {.unnumbered}
+## 日 {.unnumbered}
 
 国際介護研究会
 
-## De
+## DE {.unnumbered}
 
 International Society for Kaigo Research
 
-## 中文
+## 中文 {.unnumbered}
 
 国际护理研究协会
 
@@ -75,6 +75,8 @@ Your submission will undergo peer review.
 - 当事者臨地研究
 
 抄録 (英語または日本語) を2025年2月28日までに送信してください。
+
+抄録は、300字以内に納めてください。
 
 抄録は、査読されます。
 
