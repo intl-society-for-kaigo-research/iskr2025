@@ -112,7 +112,7 @@ Zoom (No camera required)
 
 ## 日   {.unnumbered}
 
-2025年4月25日
+2025年4月29日
 
 Zoom (カメラは不要です)
 :::
@@ -122,13 +122,15 @@ Zoom (カメラは不要です)
 ::: {.panel-tabset}
 ## En  {.unnumbered}
 
+29 April 2025
+
 Oral presentation: 10 minuts
 
 Discussion: 20 minutes
 
 ## 日   {.unnumbered}
 
-2025年4月25日
+2025年4月29日
 
 口頭発表: 10 分
 
