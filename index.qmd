@@ -15,7 +15,7 @@ International Society for Kaigo Research
 
 ## DE {.unnumbered}
 
-International Society for Kaigo Research
+International Society for Kaigo Research\
 Internationale Gesellschaft für Kaigo-Forschung (Pflegeforschung in Japan)
 
 ## 中文 {.unnumbered}
