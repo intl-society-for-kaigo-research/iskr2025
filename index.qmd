@@ -13,7 +13,7 @@ International Society for Kaigo Research
 
 国際介護研究会
 
-## DE {.unnumbered}
+## De {.unnumbered}
 
 International Society for Kaigo Research\
 Internationale Gesellschaft für Kaigo-Forschung (Pflegeforschung in Japan)
@@ -62,6 +62,8 @@ The Conference Programme Committee welcomes papers from a wide variety of interd
 
 Submit an Abstract (English or Japanese) by 28 February 2025.
 
+The maximum number of words for your abstract is 250 words (400 characters in Japanese).
+
 Your submission will undergo peer review.
 
 ## 日   {.unnumbered}
@@ -77,7 +79,7 @@ Your submission will undergo peer review.
 
 抄録 (英語または日本語) を2025年2月28日までに送信してください。
 
-抄録は、300字以内に納めてください。
+抄録は、400字以内（英語の場合 250 words）に納めてください。
 
 抄録は、査読されます。
 
