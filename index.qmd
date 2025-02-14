@@ -110,14 +110,18 @@ Die Abstracts werden einem Peer-Review unterzogen.
 
 ::: {.panel-tabset}
 ## En  {.unnumbered}
+30 April (Wednesday) - 2 May (Friday) 2025
 
-29 April 2025
+- 9:00 - 11:00 (GMT)
+- 18:00 - 20:00 (JST)
 
 Zoom (No camera required)
 
 ## 日   {.unnumbered}
+2025年4月30日 (水) - 5月2日 (金)
 
-2025年4月29日
+- 9:00 - 11:00 (GMT)
+- 18:00 - 20:00 (日本時間)
 
 Zoom (カメラは不要です)
 :::
@@ -127,15 +131,11 @@ Zoom (カメラは不要です)
 ::: {.panel-tabset}
 ## En  {.unnumbered}
 
-29 April 2025
-
 Oral presentation: 10 minuts
 
 Discussion: 20 minutes
 
 ## 日   {.unnumbered}
-
-2025年4月29日
 
 口頭発表: 10 分
 
