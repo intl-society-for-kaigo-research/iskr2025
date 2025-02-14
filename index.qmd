@@ -4,6 +4,8 @@ title: "iskr2025"
 
 # Conference
 
+![Flyer](iskr2025.png)
+
 ::: {.panel-tabset}
 ## En {.unnumbered}
 
