@@ -134,7 +134,7 @@ Zoom (カメラは不要です)
 - 9:00 - 11:00 (GMT)
 - 18:00 - 20:00 (JST)
 
-Zoom (No camera required)
+Zoom (Kamera ist nicht erforderlich)
 
 ## 中文　{.unnumbered}
 
@@ -142,6 +142,8 @@ Zoom (No camera required)
 
 - 9:00 - 11:00 (GMT)（格林威治标准时间)
 - 18:00 - 20:00 (日本時間)
+
+Zoom (无需露脸）
 :::
 
 # Presentation
@@ -158,6 +160,18 @@ Discussion: 20 minutes
 口頭発表: 10 分
 
 質疑応答: 20 分
+
+## De  {.unnumbered}
+
+Mündliche Vortrag: 10 Minuten
+
+Diskussion: 20 minutes(Fragen und Antworten)
+
+## 中文   {.unnumbered}
+
+口头报告：10 分钟
+
+问答环节：20分钟
 
 :::
 
