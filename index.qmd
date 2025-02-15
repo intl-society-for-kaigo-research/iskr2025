@@ -5,6 +5,7 @@ title: "iskr2025"
 # Conference
 
 ![Flyer](iskr2025.png)
+[Download Flyer](iskr2025.pdf)
 
 ::: {.panel-tabset}
 ## En {.unnumbered}
