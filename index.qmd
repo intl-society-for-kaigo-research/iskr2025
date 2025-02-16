@@ -94,10 +94,10 @@ Der Programmausschuss der Konferenz begrüßt Beiträge aus einem breiten Spektr
 
 - Kaigo(Kaigo Wissenschaft)
 - Rehabilitationsstidium
-- Pflegestudium
-- Ernährungswissenchaft
+- Pflegewissenschaft
+- Ernährungswissenschaft
 - Humanwissenschaften
-- Persönliche Forschung zu den Betroffenen
+- Nutzerzentrierte klinische Forschung
 
 Die Abstracts (auf Englisch oder Japanisch) müssen bis zum 28. Februar 2025 eingereicht werden.
 
@@ -113,7 +113,7 @@ Die Abstracts werden einem Peer-Review unterzogen.
 
 ::: {.panel-tabset}
 ## En  {.unnumbered}
-30 April (Wednesday) - 2 May (Friday) 2025
+30. April (Wednesday) - 2. May (Friday) 2025
 
 - 9:00 - 11:00 (GMT)
 - 18:00 - 20:00 (JST)
@@ -129,7 +129,7 @@ Zoom (No camera required)
 Zoom (カメラは不要です)
 
 ## De  {.unnumbered}
-30. 04 (Mittwoch) - 02. 05 (Freitag) 2025
+30. April (Mittwoch) - 02. Mai (Freitag) 2025
 
 - 9:00 - 11:00 (GMT)
 - 18:00 - 20:00 (JST)
