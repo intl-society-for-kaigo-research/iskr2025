@@ -12,9 +12,13 @@ title: "iskr2025"
 
 International Society for Kaigo Research
 
+Conference Registration Fee: Free of charge
+
 ## 日 {.unnumbered}
 
 国際介護研究会
+
+研究会参加費: 無料
 
 注: この会は、日本学術会議協力学術研究団体ではありません。
 
@@ -23,9 +27,13 @@ International Society for Kaigo Research
 International Society for Kaigo Research\
 Internationale Gesellschaft für Kaigo-Forschung (Pflegeforschung in Japan)
 
+Conference Registration Fee: Free of charge
+
 ## 中文 {.unnumbered}
 
 国际护理研究协会
+
+Conference Registration Fee: Free of charge
 
 :::
 
@@ -71,6 +79,8 @@ The maximum number of words for your abstract is 250 words (400 characters in Ja
 
 Your submission will undergo peer review.
 
+[We highly recommend that the participants obtain an ORCID.](https://orcid.org/)
+
 ## 日   {.unnumbered}
 
 大会プログラム委員会は、幅広い学際的・理論的視点からの論文を歓迎します。投稿は以下のストリームおよびサブストリームに分類されます。
@@ -88,6 +98,8 @@ Your submission will undergo peer review.
 
 抄録は、査読されます。
 
+[ORCID を取得することを推奨します。](https://orcid.org/)
+
 ## De  {.unnumbered}
 
 Der Programmausschuss der Konferenz begrüßt Beiträge aus einem breiten Spektrum interdisziplinärer und theoretischer Perspektiven. Die Beiträge werden in die folgenden Bereiche und Unterbereiche eingeteilt.
@@ -104,6 +116,8 @@ Die Abstracts (auf Englisch oder Japanisch) müssen bis zum 28. Februar 2025 ein
 Die Abstracts sollten 300 Wörter nicht überschreiten.
 
 Die Abstracts werden einem Peer-Review unterzogen.
+
+[We highly recommend that the participants obtain an ORCID.](https://orcid.org/)
 :::
 
 
