@@ -2,6 +2,8 @@
 title: "iskr2025"
 ---
 
+[Download Flyer](iskr2025.pdf) | [Submit Abstract](https://docs.google.com/forms/d/e/1FAIpQLSe97Kb2m-oIfZTT4Ms9y3KvHijg0thx6y6xJtIUYv2edcgbEg/viewform?usp=dialog)
+
 # Conference
 
 ![Flyer](iskr2025.png)
@@ -52,7 +54,7 @@ Begin
 
 Fangen Wir An!
 
-## 中文　{.unnumbered}
+## 中文 {.unnumbered}
 
 开始吧
 
@@ -120,6 +122,7 @@ Die Abstracts werden einem Peer-Review unterzogen.
 [We highly recommend that the participants obtain an ORCID.](https://orcid.org/)
 :::
 
+[Submit Abstract](https://docs.google.com/forms/d/e/1FAIpQLSe97Kb2m-oIfZTT4Ms9y3KvHijg0thx6y6xJtIUYv2edcgbEg/viewform?usp=dialog)
 
 # Programme
 
