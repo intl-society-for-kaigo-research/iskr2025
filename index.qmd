@@ -119,7 +119,32 @@ Die Abstracts sollten 300 Wörter nicht überschreiten.
 
 Die Abstracts werden einem Peer-Review unterzogen.
 
-[We highly recommend that the participants obtain an ORCID.](https://orcid.org/)
+[Wir empfohlen, eine ORCID zu erhalten].](https://orcid.org/)
+
+## 中文　{.unnumbered}
+
+大会程序委员会欢迎来自广泛跨学科和理论视角的论文投稿。投稿将按以下研究方向及其子领域进行分类：
+
+Kaigo/介護学（老年护理学）
+Kaigo（该术语为国际学术用语，目前尚未形成统一中文译法）
+康复医学
+护理学
+营养学
+人类科学
+参与者实地研究
+
+当前中国学界对该领域的译法存在多重表述（老年照护学/长期护理学/介护学），
+建议在论文首次出现时标注：「介護学（Kaigo Studies，老年健康支持科学）」
+
+请于2025年2月28日前提交摘要（英语或日语）。具体要求：
+
+字数限制：
+日语不超过400字
+英语不超过250词
+
+摘要需通过同行评审1
+
+强烈建议注册ORCID学者标识
 :::
 
 [Submit Abstract](https://docs.google.com/forms/d/e/1FAIpQLSe97Kb2m-oIfZTT4Ms9y3KvHijg0thx6y6xJtIUYv2edcgbEg/viewform?usp=dialog)
@@ -204,6 +229,12 @@ AI または AI を利用したツールを使用した原稿作成を認めま�
 
 DeepL または Google Translate による翻訳は認めます。
 
+## De  {.unnumbered}
+
+
+
+## 中文   {.unnumbered}
+
 :::
 
 # Assistance
@@ -220,6 +251,12 @@ https://saturdaymorning.connpass.com/
 毎週土曜日 6:30-9:00、オンラインで統計、作図、原稿作成の支援をいたします。
 
 https://saturdaymorning.connpass.com/
+
+## De  {.unnumbered}
+
+
+
+## 中文   {.unnumbered}
 :::
 
 
