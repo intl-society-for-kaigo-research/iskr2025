@@ -29,14 +29,17 @@ Conference Registration Fee: Free of charge
 International Society for Kaigo Research\
 Internationale Gesellschaft für Kaigo-Forschung (Pflegeforschung in Japan)
 
-Conference Registration Fee: Free of charge
+Konferenzbeitrag: Gebührenfrei
+
+Anmerkung: Diese Organisation steht nicht in Verbindung mit kooperierenden Forschungsgruppen des japanischen Wissenschaftsrats
 
 ## 中文 {.unnumbered}
 
 国际护理研究协会
 
-Conference Registration Fee: Free of charge
+会议注册费：全免
 
+注：本会非日本学术会议协力学術研究団体
 :::
 
 # Conference Theme
