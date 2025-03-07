@@ -79,6 +79,7 @@ The Conference Programme Committee welcomes papers from a wide variety of interd
 - Nutrituion
 - Human Science
 - User-Led Clinical Research
+- Japanese Lanuage Education
 
 Submit an Abstract (English or Japanese) by <del>28 February 2025</del> 14 March 2025.
 
@@ -98,6 +99,7 @@ Your submission will undergo peer review.
 - 栄養学
 - 人間科学
 - 当事者臨地研究
+- 日本語教育学
 
 抄録 (英語または日本語) を <del>2025年2月28日</del> 2025年3月14日 までに送信してください。
 
@@ -117,6 +119,7 @@ Der Programmausschuss der Konferenz begrüßt Beiträge aus einem breiten Spektr
 - Ernährungswissenschaft
 - Humanwissenschaften
 - Nutzerzentrierte klinische Forschung
+- Japanische Sprachepädagogik
 
 Die Abstracts (auf Englisch oder Japanisch) müssen bis zum <del>28. Februar 2025</del> 14 March 2025 eingereicht werden.
 
@@ -132,11 +135,12 @@ Die Abstracts werden einem Peer-Review unterzogen.
 
 Kaigo/介護学（老年护理学）
 Kaigo（该术语为国际学术用语，目前尚未形成统一中文译法）
-康复医学
-护理学
-营养学
-人类科学
-参与者实地研究
+- 康复医学
+- 护理学
+- 营养学
+- 人类科学
+- 参与者实地研究
+- 日语教育学
 
 当前中国学界对该领域的译法存在多重表述（老年照护学/长期护理学/介护学），
 建议在论文首次出现时标注：「介護学（Kaigo Studies，老年健康支持科学）」
