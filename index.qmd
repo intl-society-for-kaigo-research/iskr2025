@@ -6,8 +6,8 @@ title: "iskr2025"
 
 # Conference
 
-![Flyer](iskr2025.png)
-[Download Flyer](iskr2025.pdf)
+![Flyer](iskr2025.en.png)
+Download Flyer: [English](iskr2025.en.pdf) | [日本語](iskr2025.ja.pdf)
 
 ::: {.panel-tabset}
 ## En {.unnumbered}
