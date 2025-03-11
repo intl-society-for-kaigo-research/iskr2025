@@ -2,7 +2,7 @@
 title: "iskr2025"
 ---
 
-[Download Flyer](iskr2025.pdf) | [Submit Abstract](https://docs.google.com/forms/d/e/1FAIpQLSe97Kb2m-oIfZTT4Ms9y3KvHijg0thx6y6xJtIUYv2edcgbEg/viewform?usp=dialog)
+Download Flyer: [English](iskr2025.en.pdf) | [日本語](iskr2025.ja.pdf) | [Submit Abstract or Registration](https://gkb.jp/visitor/seminar/318) (Gakkai Bank)
 
 *Abstract Submission Extended to 14 March 2025*
 
@@ -129,7 +129,7 @@ Die Abstracts werden einem Peer-Review unterzogen.
 
 [Wir empfohlen, eine ORCID zu erhalten].](https://orcid.org/)
 
-## 中文　{.unnumbered}
+## 中文 {.unnumbered}
 
 大会程序委员会欢迎来自广泛跨学科和理论视角的论文投稿。投稿将按以下研究方向及其子领域进行分类：
 
@@ -156,7 +156,9 @@ Kaigo（该术语为国际学术用语，目前尚未形成统一中文译法）
 强烈建议注册ORCID学者标识
 :::
 
-[Submit Abstract](https://docs.google.com/forms/d/e/1FAIpQLSe97Kb2m-oIfZTT4Ms9y3KvHijg0thx6y6xJtIUYv2edcgbEg/viewform?usp=dialog)
+<del>[Submit Abstract](https://docs.google.com/forms/d/e/1FAIpQLSe97Kb2m-oIfZTT4Ms9y3KvHijg0thx6y6xJtIUYv2edcgbEg/viewform?usp=dialog)</del> (Google Form)
+
+[Submit Abstract](https://gkb.jp/visitor/seminar/318) (Gakkai Bank)
 
 # Programme
 
