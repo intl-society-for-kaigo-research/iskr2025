@@ -135,6 +135,7 @@ Die Abstracts werden einem Peer-Review unterzogen.
 
 Kaigo/介護学（老年护理学）
 Kaigo（该术语为国际学术用语，目前尚未形成统一中文译法）
+
 - 康复医学
 - 护理学
 - 营养学
