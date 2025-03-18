@@ -186,9 +186,8 @@ Kaigo（该术语为国际学术用语，目前尚未形成统一中文译法）
 
 ### 2 May (Friday) {.unnumbered}
 
-- 09:00 - 09:30 (GMT), 10:00 - 10:30 (BST) Oral Presentation 1
-- 09:30 - 10:30 (GMT), 10:30 - 11:30 (BST) General Meeting
-- 10:30 - 11:00 (GMT), 11:30 - 12:00 (BST) Closing
+- 09:00 - 10:00 (GMT), 10:00 - 11:00 (BST) Oral Presentation 2
+- 10:00 - 11:00 (GMT), 11:00 - 12:00 (BST) General Meeting
 
 Zoom (No camera required)
 
@@ -209,9 +208,8 @@ Zoom (No camera required)
 
 ### 2025年5月2日 (金) {.unnumbered}
 
-- 18:00 - 18:30 口頭発表 演題数 1
-- 18:30 - 19:30 総会 (法人化に向けた設立社員総会)
-- 19:30 - 20:00 閉会式
+- 18:00 - 19:00 口頭発表 演題数 2
+- 19:00 - 20:00 総会 (法人化に向けた設立社員総会)
 
 Zoom (カメラは不要です)
 
@@ -238,7 +236,7 @@ Zoom (无需露脸）
 ::: {.panel-tabset}
 ## En  {.unnumbered}
 
-Oral presentation: 10 minuts
+Oral presentation: 10 minutes
 
 Discussion: 20 minutes
 
