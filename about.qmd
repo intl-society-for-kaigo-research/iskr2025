@@ -1,8 +1,6 @@
 ---
-title: "About"
+title: "Committee"
 ---
-
-# Committee
 
 - Kazuto Aoki PhD, (Professor, Fukui Prefectural University)
 - Yoshihiko Baba PhD
