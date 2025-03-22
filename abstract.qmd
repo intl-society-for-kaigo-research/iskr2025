@@ -132,7 +132,7 @@ As the aging of the population progresses in Japan, the number of elderly people
 
 ### Title {.unnumbered}
 
-**中高齢者の生涯にわたる健康生活のための自転車活用に関する検討**
+**中高齢者の生涯にわたる健康生活のための自転車活用に関する検討**<br>
  - 主観的運動強度を用いた介入について -
 
 ### Abstract {.unnumbered}
