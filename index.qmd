@@ -2,7 +2,7 @@
 title: "iskr2025"
 ---
 
-Download Flyer: [English](ISKR2025.en.pdf) | [日本語](ISKR2025.ja.pdf) | [Submit Abstract or Registration](https://gkb.jp/visitor/seminar/318) (Gakkai Bank)
+Download Flyer: [English](https://github.com/intl-society-for-kaigo-research/iskr2025/blob/main/ISKR2025.en.pdf) | [日本語](https://github.com/intl-society-for-kaigo-research/iskr2025/blob/main/ISKR2025.ja.pdf) | [Submit Abstract or Registration](https://gkb.jp/visitor/seminar/318) (Gakkai Bank)
 
 [Join ISKR](https://gkb.jp/s/iskr/application) | [ISKR に入会](https://gkb.jp/s/iskr/application)
 
