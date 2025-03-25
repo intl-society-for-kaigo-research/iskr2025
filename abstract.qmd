@@ -4,11 +4,13 @@ title: "Abstracts"
 
 ## 発表者 1
 
-### Title {.unnumbered}
+井出育子
+
+### Title
 
 線維筋痛症患者における季節性疼痛に関する当事者研究 ――春期と梅雨期の比較――
 
-### Abstract {.unnumbered}
+### Abstract
 
 本研究は、線維筋痛症を患う研究者本人の疼痛記録を、天候状況と共に記録、比較分析し、関連性について調べた。同時に自らの病状を主体的に捉えるアプローチとしての当事者研究の有用性について検討した。
 
@@ -22,11 +24,11 @@ title: "Abstracts"
 
 峰村直樹
 
-### Title {.unnumbered}
+### Title
 
 もの忘れ相談プログラム実施に対する課題と提言 合理的配慮の提供義務化から
 
-### Abstract {.unnumbered}
+### Abstract
 
 【目的】「もの忘れ相談プログラム」（以下、MSP）実施上の合理的配慮が必要な課題箇所と提言を行う。
 
@@ -43,11 +45,11 @@ title: "Abstracts"
 
 青木和人
 
-### Title {.unnumbered}
+### Title
 
 メタ分析を用いた要介護度の地域間差異に関する研究
 
-### Abstract {.unnumbered}
+### Abstract
 
 日本における高齢化の進展に伴い、要介護認定を受ける高齢者の数が増加している。その要因として、介護従事者の都市部と郊外部への交通アクセスの違いや、地域特有の介護政策の影響が考えられる。しかし、要介護度の地域間差異に関する研究は個別のケーススタディが多く、統合的な分析が不足している。そこで本研究では、要介護度の変遷に関する過去の研究や行政データを統合し、メタ分析を用いて日本における要介護度の地域間差異を明らかにすることを目的とする。
 
@@ -57,11 +59,11 @@ As the aging of the population progresses in Japan, the number of elderly people
 
 前野優太、板垣篤典
 
-### Title {.unnumbered}
+### Title
 
 寝たきり高齢者に対する介護士による臥位ポジショニングが体圧分布に及ぼす影響
 
-### Abstract {.unnumbered}
+### Abstract
 
 【背景】
 ポジショニング前後の体圧測定を用いた定量評価は理学・作業療法士を中心に行われている。一方、生活の場で提供される介護士によるポジショニングについてはその定量的評価に基づく効果の議論は十分になされていない。
@@ -79,11 +81,11 @@ As the aging of the population progresses in Japan, the number of elderly people
 
 大庭 康二
 
-### Title {.unnumbered}
+### Title
 
 認知症高齢者に対する介護の関わり合い
 
-### Abstract {.unnumbered}
+### Abstract
 
 攻撃性などのBPSDの対応について、向精神薬が処方されるケースが多くみられることから、薬剤に頼ることなくBPSDの改善を図ることで、当事業所の目標である「向精神薬の減薬」することを目的とした。
 
@@ -115,11 +117,11 @@ As the aging of the population progresses in Japan, the number of elderly people
 
 住永みどり
 
-### Title {.unnumbered}
+### Title
 
 訪問介護サービスにおける生産性向上を考える ――訪問介護の経営に関する文献検討から――
 
-### Abstract {.unnumbered}
+### Abstract
 
 本研究は，訪問介護の経営に関する過去の論文を概観し，研究の動向を明らかにするとともに，生産性向上との関係性を考察することを目的とする。
 使用するデータベースは，医学中央雑誌Web，CiNii Research，検索ワードは「訪問介護」「経営」とした。調査実施期間は2024年 4月1日～ 2024年6月30日。調査に際しての倫理的留意としてPRISMA2020声明に則った。
@@ -130,12 +132,12 @@ As the aging of the population progresses in Japan, the number of elderly people
 
 佐々木毅然
 
-### Title {.unnumbered}
+### Title
 
 **中高齢者の生涯にわたる健康生活のための自転車活用に関する検討**<br>
  - 主観的運動強度を用いた介入について -
 
-### Abstract {.unnumbered}
+### Abstract
 
 **背景:** 日本人の平均寿命と健康寿命の差は大きく、介助や介護が必要となる期間が長い。生活習慣病の助長やフレイルの増加も懸念されている。
 
