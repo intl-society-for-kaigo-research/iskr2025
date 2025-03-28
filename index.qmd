@@ -175,18 +175,18 @@ Kaigo（该术语为国际学术用语，目前尚未形成统一中文译法）
 ### 30 April (Wednesday) {.unnumbered}
 
 - 09:00 - 09:30 (GMT), 10:00 - 10:30 (BST) Opening
-- 09:30 - 10:30 (GMT), 10:30 - 11:30 (BST) Oral Presentation 2
+- 09:30 - 10:30 (GMT), 10:30 - 11:30 (BST) Oral Presentation 2 (Chair: Dr. Yoshihiko BABA)
 - 10:30 - 11:00 (GMT), 11:30 - 12:00 (BST) Social Gathering
 
 ### 1 May (Thursday) {.unnumbered}
 
 - 09:00 - 09:30 (GMT), 10:00 - 10:30 (BST) Preperation
-- 09:30 - 10:30 (GMT), 10:30 - 11:30 (BST) Oral Presentation 2
+- 09:30 - 10:30 (GMT), 10:30 - 11:30 (BST) Oral Presentation 2 (Chair: Dr. Yoshihiko BABA)
 - 10:30 - 11:00 (GMT), 11:30 - 12:00 (BST) Lecture on How to write a research paper with RStuido
 
 ### 2 May (Friday) {.unnumbered}
 
-- 09:00 - 10:00 (GMT), 10:00 - 11:00 (BST) Oral Presentation 2
+- 09:00 - 10:00 (GMT), 10:00 - 11:00 (BST) Oral Presentation 2 (Chiar: Prof. Kazuto AOKI)
 - 10:00 - 11:00 (GMT), 11:00 - 12:00 (BST) General Meeting
 
 Zoom (No camera required)
@@ -197,18 +197,18 @@ Zoom (No camera required)
 ### 2025年4月30日 (水) {.unnumbered}
 
 - 18:00 - 18:30 開会式、Zoom 操作の準備
-- 18:30 - 19:30 口頭発表 演題数 2
+- 18:30 - 19:30 口頭発表 演題数 2 (Chair: Dr. Yoshihiko BABA)
 - 19:30 - 20:00 交流会
 
 ### 2025年5月1日 (木) {.unnumbered}
 
 - 18:00 - 18:30 Zoom 操作の準備
-- 18:30 - 19:30 口頭発表 演題数 2
+- 18:30 - 19:30 口頭発表 演題数 2 (Chair: Dr. Yoshihiko BABA)
 - 19:30 - 20:00 教育講演 RStudio を用いた論文作成
 
 ### 2025年5月2日 (金) {.unnumbered}
 
-- 18:00 - 19:00 口頭発表 演題数 2
+- 18:00 - 19:00 口頭発表 演題数 2 (Chiar: Prof. Kazuto AOKI)
 - 19:00 - 20:00 総会 (法人化に向けた設立社員総会)
 
 Zoom (カメラは不要です)
