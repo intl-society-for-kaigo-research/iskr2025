@@ -6,11 +6,11 @@ Download Flyer: [English](https://github.com/intl-society-for-kaigo-research/isk
 
 [Join ISKR](https://gkb.jp/s/iskr/application) | [ISKR に入会](https://gkb.jp/s/iskr/application)
 
-*Abstract Submission Extended to 14 March 2025*
+[登録]((https://gkb.jp/visitor/seminar/318))した方にのみ、当日の ZOOM ID をメールでお知らせいたします。
 
 # Conference
 
-![Flyer](iskr2025.en.png)
+![Flyer](iskr2025.ja.png)
 Download Flyer: [English](iskr2025.en.pdf) | [日本語](iskr2025.ja.pdf)
 
 ::: {.panel-tabset}
