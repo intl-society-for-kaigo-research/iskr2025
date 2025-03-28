@@ -181,7 +181,7 @@ Kaigo（该术语为国际学术用语，目前尚未形成统一中文译法）
 ### 1 May (Thursday) {.unnumbered}
 
 - 09:00 - 09:30 (GMT), 10:00 - 10:30 (BST) Preperation
-- 09:30 - 10:30 (GMT), 10:30 - 11:30 (BST) Oral Presentation 2 (Chair: Dr. Yoshihiko BABA)
+- 09:30 - 10:30 (GMT), 10:30 - 11:30 (BST) Oral Presentation 2 (Chiar: Midori SUMINAGA)
 - 10:30 - 11:00 (GMT), 11:30 - 12:00 (BST) Lecture on How to write a research paper with RStuido
 
 ### 2 May (Friday) {.unnumbered}
@@ -203,7 +203,7 @@ Zoom (No camera required)
 ### 2025年5月1日 (木) {.unnumbered}
 
 - 18:00 - 18:30 Zoom 操作の準備
-- 18:30 - 19:30 口頭発表 演題数 2 (Chair: Dr. Yoshihiko BABA)
+- 18:30 - 19:30 口頭発表 演題数 2 (Chair: Midori SUMINAGA)
 - 19:30 - 20:00 教育講演 RStudio を用いた論文作成
 
 ### 2025年5月2日 (金) {.unnumbered}
