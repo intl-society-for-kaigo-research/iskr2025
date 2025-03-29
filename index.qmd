@@ -6,7 +6,9 @@ Download Flyer: [English](https://github.com/intl-society-for-kaigo-research/isk
 
 [Join ISKR](https://gkb.jp/s/iskr/application) | [ISKR に入会](https://gkb.jp/s/iskr/application)
 
-[登録]((https://gkb.jp/visitor/seminar/318))した方にのみ、当日の ZOOM ID をメールでお知らせいたします。
+<div style="padding:10px;font-size:2em;background:#fdddff;color:#001e05">
+[参加申し込み](https://gkb.jp/visitor/seminar/318)した方にのみ、ZOOM ID をメールでお知らせいたします。
+</div>
 
 # Conference
 

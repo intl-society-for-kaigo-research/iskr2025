@@ -2,6 +2,10 @@
 title: "Abstracts"
 ---
 
+<div style="padding:10px;font-size:2em;background:#fdddff;color:#001e05">
+[参加申し込み](https://gkb.jp/visitor/seminar/318)した方にのみ、ZOOM ID をメールでお知らせいたします。
+</div>
+
 ## 発表者 1
 
 井出育子
