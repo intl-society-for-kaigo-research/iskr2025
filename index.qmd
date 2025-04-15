@@ -176,17 +176,23 @@ Kaigo（该术语为国际学术用语，目前尚未形成统一中文译法）
 
 - 09:00 - 09:30 (GMT), 10:00 - 10:30 (BST) Opening
 - 09:30 - 10:30 (GMT), 10:30 - 11:30 (BST) Oral Presentation 2
+  - User led study on seasonal pain in fibromyalgia patients: a comparison between spring and rainy season (Ikuko Ide
+  - Challenges and Recommendations for the Implementation of the Memory Loss Counseling Program From the Mandatory Provision of Reasonable Accommodation by (Naoki Minemura)
 - 10:30 - 11:00 (GMT), 11:30 - 12:00 (BST) Social Gathering
 
 ### 1 May (Thursday) {.unnumbered}
 
-- 09:00 - 09:30 (GMT), 10:00 - 10:30 (BST) Preperation
+- 09:00 - 09:30 (GMT), 10:00 - 10:30 (BST) Preperation Practices
 - 09:30 - 10:30 (GMT), 10:30 - 11:30 (BST) Oral Presentation 2
+  - A study of regional differences in the level of care required using meta-analysis (Prof. Kazuto Aoki)
+  - Effect of caregivers' positioning of bedridden elderly patients on pressure distribution (Yuta Maeno and Atsunori Itagaki)
 - 10:30 - 11:00 (GMT), 11:30 - 12:00 (BST) Lecture on How to write a research paper with RStuido
 
 ### 2 May (Friday) {.unnumbered}
 
 - 09:00 - 10:00 (GMT), 10:00 - 11:00 (BST) Oral Presentation 2
+  - Caregiver Engagement for the Elderly with Dementia (Koji Ohba)
+  - Considering Productivity Improvement in Home Care Services--A Review of the Literature on Management of Home Care (Midori Suminaga)
 - 10:00 - 11:00 (GMT), 11:00 - 12:00 (BST) General Meeting
 
 Zoom (No camera required)
@@ -198,37 +204,27 @@ Zoom (No camera required)
 
 - 18:00 - 18:30 開会式、Zoom 操作の準備
 - 18:30 - 19:30 口頭発表 演題数 2
+  - 線維筋痛症患者における季節性疼痛に関する当事者研究 ――春期と梅雨期の比較―― (井出育子)
+  - もの忘れ相談プログラム実施に対する課題と提言 合理的配慮の提供義務化から (峰村直樹)
 - 19:30 - 20:00 交流会
 
 ### 2025年5月1日 (木) {.unnumbered}
 
 - 18:00 - 18:30 Zoom 操作の準備
 - 18:30 - 19:30 口頭発表 演題数 2
+  - メタ分析を用いた要介護度の地域間差異に関する研究 (青木和人)
+  - 寝たきり高齢者に対する介護士による臥位ポジショニングが体圧分布に及ぼす影響 (前野優太、板垣篤典)
 - 19:30 - 20:00 教育講演 RStudio を用いた論文作成
 
 ### 2025年5月2日 (金) {.unnumbered}
 
 - 18:00 - 19:00 口頭発表 演題数 2
+  - 認知症高齢者に対する介護の関わり合い (大庭 康二)
+  - 訪問介護サービスにおける生産性向上を考える ――訪問介護の経営に関する文献検討から―― (住永みどり)
 - 19:00 - 20:00 総会 (法人化に向けた設立社員総会)
 
 Zoom (カメラは不要です)
 
-## De  {.unnumbered}
-30. April (Mittwoch) - 02. Mai (Freitag) 2025
-
-- 9:00 - 11:00 (GMT)
-- 18:00 - 20:00 (JST)
-
-Zoom (Kamera ist nicht erforderlich)
-
-## 中文 {.unnumbered}
-
-2025年4月30日（三）- 5月2日（五）
-
-- 9:00 - 11:00 (GMT)（格林威治标准时间)
-- 18:00 - 20:00 (日本時間)
-
-Zoom (无需露脸）
 :::
 
 # Presentation
@@ -274,12 +270,6 @@ AI または AI を利用したツールを使用した原稿作成を認めま�
 
 DeepL または Google Translate による翻訳は認めます。
 
-## De  {.unnumbered}
-
-
-
-## 中文   {.unnumbered}
-
 :::
 
 # Assistance
@@ -297,11 +287,6 @@ https://saturdaymorning.connpass.com/
 
 https://saturdaymorning.connpass.com/
 
-## De  {.unnumbered}
-
-
-
-## 中文   {.unnumbered}
 :::
 
 
