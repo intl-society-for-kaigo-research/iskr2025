@@ -2,6 +2,10 @@
 title: "Abstracts"
 ---
 
+<div style="padding:10px;font-size:2em;background:#fdddff;color:#001e05">
+[参加申し込み](https://gkb.jp/visitor/seminar/318)した方にのみ、ZOOM ID をメールでお知らせいたします。
+</div>
+
 ## 発表者 1
 
 井出育子
@@ -22,7 +26,7 @@ title: "Abstracts"
 
 ## 発表者 2
 
-峰村直樹
+峰村直樹 (デイサービスセンター　長寿村)
 
 ### Title
 
@@ -57,7 +61,7 @@ As the aging of the population progresses in Japan, the number of elderly people
 
 ## 発表者 4
 
-前野優太、板垣篤典
+前野優太 (株式会社 七夢)、板垣篤典
 
 ### Title
 
@@ -79,7 +83,7 @@ As the aging of the population progresses in Japan, the number of elderly people
 
 ## 発表者 5
 
-大庭 康二
+大庭 康二 (グループホーム第二光喜園)
 
 ### Title
 
@@ -115,7 +119,7 @@ As the aging of the population progresses in Japan, the number of elderly people
 
 ## 発表者 6
 
-住永みどり
+住永みどり (南阿蘇居宅支援事業所)
 
 ### Title
 
